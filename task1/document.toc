@@ -1,0 +1,46 @@
+\contentsline {section}{\numberline {1}练习主题}{1}{}%
+\contentsline {paragraph}{（1）版本控制（Git）}{1}{}%
+\contentsline {paragraph}{（2）Latex 文档编辑}{1}{}%
+\contentsline {section}{\numberline {2}练习内容}{1}{}%
+\contentsline {subsection}{\numberline {2.1}四个题目}{1}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}题目一}{1}{}%
+\contentsline {paragraph}{答：}{1}{}%
+\contentsline {paragraph}{（1）将版本历史可视化并进行探索。}{1}{}%
+\contentsline {paragraph}{答：}{1}{}%
+\contentsline {paragraph}{（2）是谁最后修改了 README.md 文件？}{2}{}%
+\contentsline {paragraph}{答：}{2}{}%
+\contentsline {paragraph}{（3）最后一次修改 \_config.yml 文件中 collections: 行时的提交信息是什么？}{2}{}%
+\contentsline {paragraph}{答：}{2}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}题目二}{3}{}%
+\contentsline {paragraph}{答：}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}题目三}{4}{}%
+\contentsline {paragraph}{答：}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}题目四}{5}{}%
+\contentsline {paragraph}{答：}{5}{}%
+\contentsline {subsection}{\numberline {2.2}20个实例}{7}{}%
+\contentsline {paragraph}{（1）git init:}{7}{}%
+\contentsline {paragraph}{（2）git add <filename>:}{7}{}%
+\contentsline {paragraph}{（3）git status:}{7}{}%
+\contentsline {paragraph}{（4）git commit:}{7}{}%
+\contentsline {paragraph}{（5）git log:}{7}{}%
+\contentsline {paragraph}{（6）git help <command>:}{8}{}%
+\contentsline {paragraph}{（7）git checkout <revision>:}{9}{}%
+\contentsline {paragraph}{（8）git branch:}{9}{}%
+\contentsline {paragraph}{（9）git checkout -b <name> 或者 git switch -c <name>:}{10}{}%
+\contentsline {paragraph}{（10） git merge <revision>:}{10}{}%
+\contentsline {paragraph}{（11）git rebase:}{10}{}%
+\contentsline {paragraph}{（12）git remote:}{11}{}%
+\contentsline {paragraph}{（13）git fetch:}{11}{}%
+\contentsline {paragraph}{（14）git clone:}{11}{}%
+\contentsline {paragraph}{（15）git remote add <name> <url>:}{11}{}%
+\contentsline {paragraph}{（16）git remote rename <oldname> <newname>:}{11}{}%
+\contentsline {paragraph}{（17）git remote get-url <name>:}{11}{}%
+\contentsline {paragraph}{（18）git remote set-url <name> <newurl>:}{12}{}%
+\contentsline {paragraph}{（19）git remote rm <name>:}{12}{}%
+\contentsline {paragraph}{（20）git pull <remote-name> <branch>:}{12}{}%
+\contentsline {section}{\numberline {3}问题及解决方案}{12}{}%
+\contentsline {paragraph}{（1）}{12}{}%
+\contentsline {paragraph}{（2）}{13}{}%
+\contentsline {paragraph}{（3）}{15}{}%
+\contentsline {section}{\numberline {4}解题感悟}{15}{}%
+\contentsline {section}{\numberline {5}github链接}{16}{}%
