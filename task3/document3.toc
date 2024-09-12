@@ -1,0 +1,41 @@
+\contentsline {section}{\numberline {1}练习主题}{1}{}%
+\contentsline {paragraph}{（1）命令行环境}{1}{}%
+\contentsline {paragraph}{（2）Python 入门基础}{1}{}%
+\contentsline {paragraph}{（3）Python 视觉应用}{1}{}%
+\contentsline {section}{\numberline {2}练习内容}{1}{}%
+\contentsline {subsection}{\numberline {2.1}四个题目}{1}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}题目一}{1}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}题目二}{1}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}题目三}{2}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}题目四}{2}{}%
+\contentsline {subsection}{\numberline {2.2}20个实例}{3}{}%
+\contentsline {paragraph}{（1）安装并启动tumx会话：}{3}{}%
+\contentsline {paragraph}{（2）显示帮助：}{3}{}%
+\contentsline {paragraph}{（3）退出当前tmux会话：}{4}{}%
+\contentsline {paragraph}{（4）tmux new -s <session-name>：}{4}{}%
+\contentsline {paragraph}{（5）将窗格拆分为两个窗格：}{4}{}%
+\contentsline {paragraph}{（6）分离对话：}{5}{}%
+\contentsline {paragraph}{（7）tmux ls：}{6}{}%
+\contentsline {paragraph}{（8）tmux attach：}{6}{}%
+\contentsline {paragraph}{（9）tmux kill-session：}{6}{}%
+\contentsline {paragraph}{（10）tmux switch：}{7}{}%
+\contentsline {paragraph}{（11）tmux rename-session：}{7}{}%
+\contentsline {paragraph}{（12）创建ssh密钥对：}{8}{}%
+\contentsline {paragraph}{（13）ssh远程连接：}{8}{}%
+\contentsline {paragraph}{（14）python入门：}{8}{}%
+\contentsline {paragraph}{（15）python命令行参数：}{9}{}%
+\contentsline {paragraph}{（16）python实例-素数判断：}{9}{}%
+\contentsline {paragraph}{（17）python视觉-图像基本操作：}{10}{}%
+\contentsline {paragraph}{（18）python视觉-频率域图像操作：}{11}{}%
+\contentsline {paragraph}{实例要求:}{11}{}%
+\contentsline {paragraph}{实例解答:}{11}{}%
+\contentsline {paragraph}{（19）python视觉-空间域图像增强}{13}{}%
+\contentsline {paragraph}{实例要求：}{13}{}%
+\contentsline {paragraph}{实例解答：}{13}{}%
+\contentsline {paragraph}{（20）python视觉-油滴检测：}{14}{}%
+\contentsline {paragraph}{实例要求：}{14}{}%
+\contentsline {paragraph}{实例解答：}{14}{}%
+\contentsline {section}{\numberline {3}问题及解决方案}{17}{}%
+\contentsline {paragraph}{（1）}{17}{}%
+\contentsline {section}{\numberline {4}解题感悟}{17}{}%
+\contentsline {section}{\numberline {5}github链接}{18}{}%
