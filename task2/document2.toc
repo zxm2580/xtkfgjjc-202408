@@ -1,0 +1,40 @@
+\contentsline {section}{\numberline {1}练习主题}{1}{}%
+\contentsline {paragraph}{（1）Shell 工具和脚本}{1}{}%
+\contentsline {paragraph}{（2）编辑器（Vim）}{1}{}%
+\contentsline {paragraph}{（3）数据整理}{1}{}%
+\contentsline {section}{\numberline {2}练习内容}{1}{}%
+\contentsline {subsection}{\numberline {2.1}四个题目}{1}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}题目一}{1}{}%
+\contentsline {paragraph}{答：}{1}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}题目二}{3}{}%
+\contentsline {paragraph}{答：}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}题目三}{3}{}%
+\contentsline {paragraph}{答：}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}题目四}{4}{}%
+\contentsline {paragraph}{答：}{4}{}%
+\contentsline {subsection}{\numberline {2.2}20个实例}{5}{}%
+\contentsline {paragraph}{（1）shell：}{5}{}%
+\contentsline {paragraph}{答:}{5}{}%
+\contentsline {paragraph}{（2）vim:}{5}{}%
+\contentsline {paragraph}{（3）vim:}{6}{}%
+\contentsline {paragraph}{（4）vim:}{6}{}%
+\contentsline {paragraph}{（5）vim:}{6}{}%
+\contentsline {paragraph}{（6）vim:}{7}{}%
+\contentsline {paragraph}{（7）vim:}{7}{}%
+\contentsline {paragraph}{（8）vim:}{7}{}%
+\contentsline {paragraph}{（9）vim:}{8}{}%
+\contentsline {paragraph}{（10）vim:}{9}{}%
+\contentsline {paragraph}{（11）vim:}{10}{}%
+\contentsline {paragraph}{（12）vim:}{11}{}%
+\contentsline {paragraph}{（13）vim:}{11}{}%
+\contentsline {paragraph}{（14）vim:}{11}{}%
+\contentsline {paragraph}{（15）vim:}{12}{}%
+\contentsline {paragraph}{（16）vim:}{12}{}%
+\contentsline {paragraph}{（17）数据整理：}{14}{}%
+\contentsline {paragraph}{（18）数据整理：}{15}{}%
+\contentsline {paragraph}{（19）数据整理：}{15}{}%
+\contentsline {paragraph}{（20）数据整理：}{15}{}%
+\contentsline {section}{\numberline {3}问题及解决方案}{16}{}%
+\contentsline {paragraph}{（1）}{16}{}%
+\contentsline {section}{\numberline {4}解题感悟}{16}{}%
+\contentsline {section}{\numberline {5}github链接}{17}{}%
