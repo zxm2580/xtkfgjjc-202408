@@ -1,0 +1,46 @@
+\contentsline {section}{\numberline {1}练习主题}{1}{}%
+\contentsline {paragraph}{（1）调试及性能分析}{1}{}%
+\contentsline {paragraph}{（2）元编程演示实验}{1}{}%
+\contentsline {paragraph}{（3）大杂烩}{1}{}%
+\contentsline {paragraph}{（4）PyTorch 编程}{1}{}%
+\contentsline {section}{\numberline {2}练习内容}{1}{}%
+\contentsline {subsection}{\numberline {2.1}四个题目}{1}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}题目一}{1}{}%
+\contentsline {paragraph}{答:}{1}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}题目二}{2}{}%
+\contentsline {paragraph}{答:}{2}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}题目三}{4}{}%
+\contentsline {paragraph}{答:}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}题目四}{5}{}%
+\contentsline {paragraph}{答:}{6}{}%
+\contentsline {subsection}{\numberline {2.2}20个实例}{7}{}%
+\contentsline {paragraph}{（1）向系统日志中写日志:}{7}{}%
+\contentsline {paragraph}{（2）gdb:}{7}{}%
+\contentsline {paragraph}{（3）gdb:}{7}{}%
+\contentsline {paragraph}{（4）gdb:}{8}{}%
+\contentsline {paragraph}{（5）gdb:}{8}{}%
+\contentsline {paragraph}{（6）gdb:}{8}{}%
+\contentsline {paragraph}{（7）pwndbg:}{9}{}%
+\contentsline {paragraph}{（8）objdump 的使用:}{9}{}%
+\contentsline {paragraph}{答:}{9}{}%
+\contentsline {paragraph}{（9）Wireshark：}{10}{}%
+\contentsline {paragraph}{10）性能分析-计时：}{11}{}%
+\contentsline {paragraph}{（11）perf：}{12}{}%
+\contentsline {paragraph}{（12）可视化：}{12}{}%
+\contentsline {paragraph}{（13）进程资源的可视化：}{13}{}%
+\contentsline {paragraph}{（14）进程资源的可视化：}{14}{}%
+\contentsline {paragraph}{答:}{14}{}%
+\contentsline {paragraph}{（15）命令行标志参数：}{15}{}%
+\contentsline {paragraph}{（16）git：}{15}{}%
+\contentsline {paragraph}{答:}{15}{}%
+\contentsline {paragraph}{（17）可读性：}{16}{}%
+\contentsline {paragraph}{（18）彩色文本：}{16}{}%
+\contentsline {paragraph}{答:}{16}{}%
+\contentsline {paragraph}{（19）markdown：}{16}{}%
+\contentsline {paragraph}{（20）pytorch实例：}{18}{}%
+\contentsline {paragraph}{实例要求：}{18}{}%
+\contentsline {paragraph}{实例解答：}{18}{}%
+\contentsline {section}{\numberline {3}问题及解决方案}{19}{}%
+\contentsline {paragraph}{（1）}{19}{}%
+\contentsline {section}{\numberline {4}解题感悟}{20}{}%
+\contentsline {section}{\numberline {5}github链接}{20}{}%
